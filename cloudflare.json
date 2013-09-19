@@ -1,7 +1,7 @@
 {
     
     "name": "SeeVolution",
-    "description": "Realtime web analytics and heatmaps, overlayed on your own website.",
+    "description": "Realtime analytics and heatmaps, overlayed on your website.",
     "version": "2.09.19",
     "category": "analytics",
     "main": "public/js/seevolution.js",
