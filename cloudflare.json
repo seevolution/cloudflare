@@ -1,0 +1,54 @@
+{
+    
+    "name": "SeeVolution",
+    "description": "Realtime web analytics and heatmaps, overlayed on your own website.",
+    "version": "2.09.19",
+    "category": "analytics",
+    "main": "public/js/main.js",
+    "config":{
+        "details":{
+            "Language": "English",
+            "Price": "",
+            "Restrictions": "None",
+            "TOS":"https://www.seevolution.com/termsofuse",
+            "has_js": true
+        }, 
+        "assets":{
+            "logos" : {
+                "200px": "./public/images/logo-200.png",
+                "132px": "./public/images/logo-132.png"
+            },
+            "detail_page" : [
+                "./public/images/example.png"
+            ],
+            "images" : [
+                "./public/images/counter.png"
+            ]
+        }
+    },
+    "account": {
+        "callback_url": "https://api.seevolution.com/cf",
+        "user_fields": ["email"]
+    },
+    "billing": {
+        "type": "zone",
+        "plans":[
+            {
+                "name" : "Enterprise",
+                "price": "499.99"
+            },
+            {
+                "name" : "Professional",
+                "price": "149.99"
+            },
+            {
+                "name" : "Premium",
+                "price": "79.99"
+            },
+            {
+                "name" : "Light",
+                "price": "29.99"
+            }
+        ]
+    }
+}
