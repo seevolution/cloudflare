@@ -27,7 +27,7 @@
         }
     },
     "account": {
-        "callback_url": "https://api.seevolution.com/cf",
+        "callback_url": "https://api.seevolution.com/api/cloudflare",
         "user_fields": ["email"]
     },
     "billing": {
