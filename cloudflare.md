@@ -1,5 +1,5 @@
 #SeeVolution
-> Providing website heatmaps and real time analytics for the global user
+Providing website heatmaps and real time analytics for the global user
 
 ![SeeVolution Heatmap](/public/images/SeeVo-Heatmap.jpg)
 
