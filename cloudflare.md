@@ -4,9 +4,9 @@
 
 SeeVolution's goal is to provide you website heatmaps and real-time analytics in a simplified, visual tool that lays transparently over your website. Rather than navigating away from your website to analyze your site's visitor data, you can navigate to any page on your site and have instant access to visitor heatmaps and real-time analytics for that specific page.
 
-###"
-Genius Idea: SeeVolution makes it easy to visualize how visitors are using and interacting with your website.
-###" - Mashable, September 2010
+
+> Genius Idea: SeeVolution makes it easy to visualize how visitors are using and interacting with your website.
+> <cite> Mashable, September 2010 </cite>
 
 
 
