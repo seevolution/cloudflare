@@ -1,5 +1,5 @@
 #SeeVolution
-Providing website heatmaps and real time analytics for the global user
+> Providing website heatmaps and real time analytics for the global user
 
 ![SeeVolution Heatmap](/images/SeeVo-Heatmap.jpg)
 
@@ -39,4 +39,4 @@ So Easy! The process takes less than two minutes – simply add the two line Jav
 
 ## Contact
 
-[SeeVolution Contact Page](https://www.seevolution.com/contact)
+[Contact us](https://www.seevolution.com/contact) for more information.
