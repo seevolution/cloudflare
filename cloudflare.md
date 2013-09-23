@@ -40,4 +40,4 @@ So Easy! The process takes less than two minutes – simply add the two line Jav
 
 ## Contact
 
-[Contact us](https://www.seevolution.com/contact) for more information.
+Questions? [Contact us](https://www.seevolution.com/contact) for more information.
