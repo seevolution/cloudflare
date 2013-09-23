@@ -1,7 +1,7 @@
 #SeeVolution
 > Providing website heatmaps and real time analytics for the global user
 
-![SeeVolution Heatmap](/images/SeeVo-Heatmap.jpg)
+![SeeVolution Heatmap](/public/images/SeeVo-Heatmap.jpg)
 
 SeeVolution's goal is to provide you website heatmaps and real-time analytics in a simplified, visual tool that lays transparently over your website. Rather than navigating away from your website to analyze your site's visitor data, you can navigate to any page on your site and have instant access to visitor heatmaps and real-time analytics for that specific page.
 
