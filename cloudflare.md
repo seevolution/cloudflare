@@ -31,6 +31,7 @@ So Easy! The process takes less than two minutes – simply add the two line Jav
 * Mouse Move Heatmaps
 * Live Click Heatmaps
 * Real Time Analytics
+* Plugins
 
 ## Links
 
