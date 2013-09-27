@@ -1,5 +1,5 @@
 #SeeVolution
-SeeVolution offers the most comprehensive set of Website Heatmaps available on the web. Our heatmaps allow you to see every click, mouse movement, and scroll on your site. This easy to interpret visual information will provide you a new set of actionable data, allowing you to make simple changes to greatly improve your sites usability, customer satisfaction, and conversion.
+SeeVolution offers __the most comprehensive set of Website Heatmaps__ available on the web. Our heatmaps allow you to see every click, mouse movement, and scroll on your site. This easy to interpret visual information will provide you a new set of actionable data, allowing you to make simple changes to greatly improve your sites usability, customer satisfaction, and conversion.
 
 In addition to click, scroll, and mouse movement heatmaps SeeVolution provides real-time analytics in a beautiful, easy to use interface that overlays directly on your website. This simple, visual interface will provide you with the most relevant data for your website, and can be viewed both site-wide and page-specific. 
 
