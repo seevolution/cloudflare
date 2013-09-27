@@ -1,33 +1,9 @@
 #SeeVolution
-Providing website heatmaps and real time analytics for the global user
+SeeVolution offers the most comprehensive set of Website Heatmaps available on the web. Our heatmaps allow you to see every click, mouse movement, and scroll on your site. This easy to interpret visual information will provide you a new set of actionable data, allowing you to make simple changes to greatly improve your sites usability, customer satisfaction, and conversion.
+
+In addition to click, scroll, and mouse movement heatmaps SeeVolution provides real-time analytics in a beautiful, easy to use interface that overlays directly on your website. This simple, visual interface will provide you with the most relevant data for your website, and can be viewed both site-wide and page-specific. 
 
 ![SeeVolution Heatmap](/public/images/SeeVo-Heatmap.jpg)
-
-SeeVolution's goal is to provide you website heatmaps and real-time analytics in a simplified, visual tool that lays transparently over your website. Rather than navigating away from your website to analyze your site's visitor data, you can navigate to any page on your site and have instant access to visitor heatmaps and real-time analytics for that specific page.
-
-
-> Genius Idea: SeeVolution makes it easy to visualize how visitors are using and interacting with your website.
-
-<cite> -- Mashable, September 2010</cite>
-
-
-
-##What is SeeVolution?
-
-SeeVolution compliments existing services (such as Google Analytics) with additional features that show site owners how users are behaving on their site. SeeVolution’s tool panel lays discreetly on a web page allowing users to monitor in real time – without navigating away from their page - the site metrics that are most important to them. SeeVolution’s heatmap technology display a web page's 'hot spots' as well as links, images or text that receive less attention. Additionally, SeeVolution’s Email and SMS alerts help reverse common site malfunctions that cause negative traffic trends and lost conversions.
-
-##How is it different from other web analytics services such as Google Analytics?
-
-SeeVolution compliments existing services (such as Google Analytics) with additional features that show site owners how users are behaving on their site. SeeVolution’s tool panel lays discreetly on a web page allowing users to monitor in real time – without navigating away from their page - the site metrics that are most important to them. SeeVolution’s heatmap technology display a web page's 'hot spots' as well as links, images or text that receive less attention. Additionally, SeeVolution’s Email and SMS alerts help reverse common site malfunctions that cause negative traffic trends and lost conversions.
-
-##Features
-
-* Scroll Heatmaps
-* Click Heatmaps
-* Mouse Move Heatmaps
-* Live Click Heatmaps
-* Real Time Analytics
-* Plugins
 
 ## Links
 
