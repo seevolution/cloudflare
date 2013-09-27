@@ -3,7 +3,8 @@ SeeVolution offers the most comprehensive set of Website Heatmaps available on t
 
 In addition to click, scroll, and mouse movement heatmaps SeeVolution provides real-time analytics in a beautiful, easy to use interface that overlays directly on your website. This simple, visual interface will provide you with the most relevant data for your website, and can be viewed both site-wide and page-specific. 
 
-![SeeVolution Heatmap](/public/images/SeeVo-Heatmap.jpg)
+![SeeVolution Realtime Overlay](/public/images/realtime-overlay.png)
+![SeeVolution Heatmaps](/public/images/heatmaps.png)
 
 ## Links
 
