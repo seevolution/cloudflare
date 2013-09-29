@@ -19,7 +19,6 @@
                 "132px": "./public/images/logo-132.png"
             },
             "detail_page" : [
-                "./public/images/SeeVo-Heatmap.jpg",
                 "./public/images/heatmaps.png",
                 "./public/images/realtime-overlay.png"
             ],
