@@ -2,7 +2,7 @@
     
     "name": "SeeVolution",
     "description": "Realtime analytics and heatmaps, overlayed on your website.",
-    "version": "2.09.19",
+    "version": "2.09.29",
     "category": "analytics",
     "main": "public/js/seevolution.js",
     "config":{
