@@ -51,7 +51,7 @@
             }
             ,{
                 "name" : "Free",
-                "price": "Free"
+                "price": "0.00"
             }
         ]
     }
