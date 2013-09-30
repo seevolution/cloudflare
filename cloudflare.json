@@ -2,7 +2,7 @@
     
     "name": "SeeVolution",
     "description": "Realtime analytics and heatmaps, overlayed on your website.",
-    "version": "2.09.29",
+    "version": "2.09.35",
     "category": "analytics",
     "main": "public/js/seevolution.js",
     "config":{
@@ -36,18 +36,22 @@
             {
                 "name" : "Enterprise",
                 "price": "499.99"
-            },
-            {
+            }
+            ,{
                 "name" : "Professional",
                 "price": "149.99"
-            },
-            {
+            }
+            ,{
                 "name" : "Premium",
                 "price": "79.99"
-            },
-            {
+            }
+            ,{
                 "name" : "Light",
                 "price": "29.99"
+            }
+            ,{
+                "name" : "Free",
+                "price": "Free"
             }
         ]
     }
